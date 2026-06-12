@@ -29,6 +29,7 @@ Projeto educacional para aprendizado.
 
 ```bash
 git clone https://github.com/fernando.soffa/desafio_tesouro
+```
 
 2. Abra o arquivo `index.html` em seu navegador.
 
